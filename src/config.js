@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Asmaa Abdullah',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Asmaa Abdullah is a passionate Computer and Data Science student from Alexandria, Egypt, who loves exploring data science, machine learning, and software development.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Asmaa Abdullah, Asmaa, Abdullah, asmaaabdalh, data science, machine learning, computer science, software developer, javascript, python, Alexandria University, Egypt',
+  siteUrl: 'https://asmaaabdalh.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Asmaa Abdullah',
+  location: 'Alexandria, Egypt',
+  email: 'asmaa.abdullah@example.com',
+  github: 'https://github.com/asmaaabdalh',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/asmaaabdalh',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/asmaa-abdullah-bb08422b6/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://codepen.io/asmaaabdalh',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/asmaaabdalh',
     },
     {
       name: 'Twitter',
